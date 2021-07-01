@@ -2,6 +2,14 @@
 
 This is the GitHub repository of ORB-SLAM2 used for course COMP0130 at UCL. For original release of ORBSLAM2, please go to:
 https://github.com/raulmur/ORB_SLAM2
+
+All methods of each task illustrate how to do them in the report, so please check the report.pdf file.
+It must download some packages, such as g2o, eigen, openCV, DBoW2, and Pangolin.
+Thank you.
+
+Kind regards
+Hyungjoo Kim
+
 # 1. License
 
 ORB-SLAM2 is released under a [GPLv3 license](https://github.com/raulmur/ORB_SLAM2/blob/master/License-gpl.txt). For a list of all code/library dependencies (and associated licenses), please see [Dependencies.md](https://github.com/raulmur/ORB_SLAM2/blob/master/Dependencies.md).
