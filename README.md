@@ -5,6 +5,8 @@ https://github.com/raulmur/ORB_SLAM2
 
 All methods of each task illustrate how to do them in the report, so please check the report.pdf file.
 It must download some packages, such as g2o, eigen, openCV, DBoW2, and Pangolin.
+One more thing that you need to use "git clone" to download 'Thridparty' and 'Vocabulary' files from the original package.
+The dataset were used '07' and '10', respectively.
 Thank you.
 
 Kind regards
